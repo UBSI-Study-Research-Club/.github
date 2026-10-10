@@ -1,22 +1,49 @@
 # UBSI Study & Research Club (USRC)
 
-Komunitas mahasiswa lintas prodi di **UBSI Pontianak** (Informatika, Sistem Informasi, SI Akuntansi).
+**USRC** adalah komunitas mahasiswa lintas prodi di **UBSI Pontianak** — Informatika, Sistem Informasi, dan SI Akuntansi dalam satu ruang belajar dan kerja.
 
-## 4 Core
+Kami percaya mahasiswa berkembang bukan cuma di kelas, tapi lewat **terbiasa memproduksi karya nyata**: belajar bareng, meneliti, membangun project, dan berkolaborasi lintas disiplin.
 
-| Core | Isi |
+---
+
+## 4 Core USRC
+
+| Core | Aktivitas |
 |---|---|
-| Study | Belajar bareng: materi kuliah, skill dasar mahasiswa, public speaking |
-| Research | Penelitian & study literature: cari gap, selesaikan |
-| Build Project | Bikin karya nyata: aplikasi, web, game, tulisan |
-| Collaboration | 3 prodi satu tim untuk project besar |
+| **Study** | Study session rutin: mendalami materi kuliah, persiapan UTS/UAS, skill dasar mahasiswa (public speaking, pembuatan makalah, bahasa Inggris) |
+| **Research** | Penelitian & study literature: mengidentifikasi gap masalah lalu menyelesaikannya, akademik maupun non-akademik |
+| **Build Project** | Membangun karya nyata: aplikasi, web, sistem, game, novel, makalah, hasil riset |
+| **Collaboration** | Tiga prodi menyatu dalam satu tim untuk project berskala besar |
 
-## Proyek Terbuka
+---
 
-- [USRC-MAIN-PROJECT](https://github.com/UBSI-Study-Research-Club/USRC-MAIN-PROJECT) - web resmi USRC (Next.js + Supabase)
+## Repository Aktif
 
-## Kontributor
+| Repo | Deskripsi | Status |
+|---|---|---|
+| [USRC-MAIN-PROJECT](https://github.com/UBSI-Study-Research-Club/USRC-MAIN-PROJECT) | Web resmi USRC: absensi sesi, pendaftaran anggota, etalase karya | Dalam pengembangan |
 
-Kurasi via Pull Request - semua perubahan direview sebelum masuk `main`.
+**Stack utama:** Next.js (App Router, TypeScript) - Tailwind CSS - Supabase (Postgres, RLS, Auth OTP, Realtime) - Vercel
 
-EST. 2026 - Pontianak
+---
+
+## Cara Kontribusi
+
+1. Request akses ke admin organisasi
+2. Clone repo, kerjakan di branch fitur (`feat/nama-fitur`)
+3. Buka Pull Request — semua perubahan direview sebelum masuk `main`
+4. Satu fitur selesai = rilis
+
+Panduan lengkap (PRD, rencana rilis, standar desain) tersedia di repo masing-masing.
+
+---
+
+## Tim Inti
+
+| Peran | Orang |
+|---|---|
+| Lead & Backend | Raken Rizki Saputra |
+| Wakil | Iwan |
+| Frontend | Chello, Riski |
+
+EST. 2026 - Pontianak, Kalimantan Barat
