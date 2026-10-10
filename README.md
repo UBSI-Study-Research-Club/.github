@@ -29,21 +29,11 @@ Kami percaya mahasiswa berkembang bukan cuma di kelas, tapi lewat **terbiasa mem
 
 ## Cara Kontribusi
 
-1. Request akses ke admin organisasi
+1. Request akses ke organisasi
 2. Clone repo, kerjakan di branch fitur (`feat/nama-fitur`)
-3. Buka Pull Request — semua perubahan direview sebelum masuk `main`
+3. Buka Pull Request — semua perubahan direview bersama sebelum masuk `main`
 4. Satu fitur selesai = rilis
 
 Panduan lengkap (PRD, rencana rilis, standar desain) tersedia di repo masing-masing.
-
----
-
-## Tim Inti
-
-| Peran | Orang |
-|---|---|
-| Lead & Backend | Raken Rizki Saputra |
-| Wakil | Iwan |
-| Frontend | Chello, Riski |
 
 EST. 2026 - Pontianak, Kalimantan Barat
